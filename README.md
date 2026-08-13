@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHAV-077/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RISHAV-077/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RISHAV-077/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RISHAV-077/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RISHAV-077/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RISHAV-077/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -115,18 +118,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
