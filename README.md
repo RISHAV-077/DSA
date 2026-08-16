@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -204,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
