@@ -16,10 +16,11 @@ public:
         bool result = false;
 
         if (i < n && s1[i] == s3[k])
-            result = result || solve(i + 1, j, k + 1, s1, s2, s3);
-
+            result = solve(i + 1, j, k + 1, s1, s2, s3);
+        
+        if(result == true) return dp[i][j][k]= result;
         if (j < m && s2[j] == s3[k])
-            result = result || solve(i, j + 1, k + 1, s1, s2, s3);
+            result = solve(i, j + 1, k + 1, s1, s2, s3);
 
         return dp[i][j][k] = result;
     }
