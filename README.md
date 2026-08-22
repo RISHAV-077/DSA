@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
 ## Heap (Priority Queue)
 |  |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
