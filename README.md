@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/RISHAV-077/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RISHAV-077/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/RISHAV-077/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RISHAV-077/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
@@ -308,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Stack
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
