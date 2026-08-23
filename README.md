@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHAV-077/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHAV-077/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RISHAV-077/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
 | [2591-distribute-money-to-maximum-children](https://github.com/RISHAV-077/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RISHAV-077/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/RISHAV-077/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHAV-077/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RISHAV-077/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
