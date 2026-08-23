@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RISHAV-077/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -296,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/RISHAV-077/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
