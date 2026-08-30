@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/RISHAV-077/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
+| [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/RISHAV-077/DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
+| [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1386-cinema-seat-allocation](https://github.com/RISHAV-077/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
