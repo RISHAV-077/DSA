@@ -6,20 +6,20 @@ public:
 
         ListNode* prev = head;
         ListNode* curr = head->next;
-        ListNode* next = curr->next;
+        ListNode* agla = curr->next;
 
         int i = 1;
 
-        while (next != NULL) {
-            if (curr->val < prev->val && curr->val < next->val) {
+        while (agla != NULL) {
+            if (curr->val < prev->val && curr->val < agla->val) {
                 ans.push_back(i);
             }
-            if (curr->val > prev->val && curr->val > next->val) {
+            if (curr->val > prev->val && curr->val > agla->val) {
                 ans.push_back(i);
             }
             prev = curr;
-            curr = next;
-            next = next->next;
+            curr = agla;
+            agla = agla->next;
             i++;
         }
 
