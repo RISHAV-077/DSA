@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/RISHAV-077/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RISHAV-077/DSA/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/RISHAV-077/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RISHAV-077/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
