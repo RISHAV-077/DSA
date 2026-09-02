@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
@@ -375,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RISHAV-077/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
