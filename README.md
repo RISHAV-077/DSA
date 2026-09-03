@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RISHAV-077/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RISHAV-077/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/RISHAV-077/DSA/tree/master/0238-product-of-array-except-self) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RISHAV-077/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RISHAV-077/DSA/tree/master/0238-product-of-array-except-self) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/RISHAV-077/DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
