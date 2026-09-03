@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/RISHAV-077/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/RISHAV-077/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
