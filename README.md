@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RISHAV-077/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RISHAV-077/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RISHAV-077/DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
