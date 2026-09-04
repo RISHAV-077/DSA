@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/RISHAV-077/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/RISHAV-077/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHAV-077/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/RISHAV-077/DSA/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1690-stone-game-vii](https://github.com/RISHAV-077/DSA/tree/master/1690-stone-game-vii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/RISHAV-077/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHAV-077/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHAV-077/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RISHAV-077/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/RISHAV-077/DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/RISHAV-077/DSA/tree/master/1140-stone-game-ii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1872-stone-game-viii](https://github.com/RISHAV-077/DSA/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RISHAV-077/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
