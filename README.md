@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RISHAV-077/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -379,10 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RISHAV-077/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RISHAV-077/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
