@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RISHAV-077/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHAV-077/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1386-cinema-seat-allocation](https://github.com/RISHAV-077/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RISHAV-077/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHAV-077/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHAV-077/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RISHAV-077/DSA/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RISHAV-077/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
