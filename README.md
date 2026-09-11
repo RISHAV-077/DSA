@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RISHAV-077/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHAV-077/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RISHAV-077/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHAV-077/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHAV-077/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/RISHAV-077/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
