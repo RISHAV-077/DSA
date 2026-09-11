@@ -1,46 +1,27 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        string result = "";
         int n = s.length();
-        
-// forward eleiminate
-        int lastOpen = 0;
-        for(int i = 0; i<n; i++) {
-            char c = s[i];
-            if((c >= 'a' && c <= 'z'))
-                result.push_back(c);
-            else if(c == '(') {
-                result.push_back(c);
-                lastOpen++;
-            } else if(lastOpen > 0) {
-                lastOpen--;
-                result.push_back(c);
+        unordered_set<int>removedindex;
+        stack<int>st;
+        for(int i=0 ; i< n ; i++){
+            char ele = s[i];
+            if(ele == '(') st.push(i);
+            else if( ele == ')'){
+                if(st.empty()) removedindex.insert(i);
+                else st.pop();
             }
         }
-        
-        if(result == "")
-            return "";
-        
-        
-        s = result;
-        result = "";
-        int lastClose = 0;
-        n = s.length();
-// backward elminate
-        for(int i = n-1; i>=0; i--) {
-            char c = s[i];
-            if((c >= 'a' && c <= 'z'))
-                result.push_back(c);
-            else if(c == ')') {
-                result.push_back(c);
-                lastClose++;
-            } else if(lastClose > 0) {
-                lastClose--;
-                result.push_back(c);
-            }
+        //adding other elements left in stack
+        while(!st.empty()){
+            removedindex.insert(st.top());
+            st.pop();
         }
-        reverse(result.begin(), result.end());
-        return result;
+        //deleting the elements
+        string ans="";
+        for(int i=0 ; i< n ; i++){
+            if(removedindex.find(i) ==  removedindex.end()) ans.push_back(s[i]);
+        }
+        return ans;
     }
 };
