@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/RISHAV-077/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHAV-077/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RISHAV-077/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RISHAV-077/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RISHAV-077/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/RISHAV-077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHAV-077/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/RISHAV-077/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -471,4 +475,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHAV-077/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
