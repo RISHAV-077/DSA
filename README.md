@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RISHAV-077/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHAV-077/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RISHAV-077/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHAV-077/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RISHAV-077/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RISHAV-077/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/RISHAV-077/DSA/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
