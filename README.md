@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHAV-077/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RISHAV-077/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RISHAV-077/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RISHAV-077/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHAV-077/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RISHAV-077/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RISHAV-077/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RISHAV-077/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RISHAV-077/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/RISHAV-077/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RISHAV-077/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2542-maximum-subsequence-score](https://github.com/RISHAV-077/DSA/tree/master/2542-maximum-subsequence-score) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RISHAV-077/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Counting Sort
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/RISHAV-077/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RISHAV-077/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RISHAV-077/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RISHAV-077/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/RISHAV-077/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
