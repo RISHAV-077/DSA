@@ -15,13 +15,9 @@ public:
 
         long long ans = 0;
         int MOD = 1e9 + 7;
-
-        // Remove elements before 'left'
         for(int i = 1; i < left; i++) {
             pq.pop();
         }
-
-        // Add elements from left to right
         for(int i = left; i <= right; i++) {
             ans = (ans + pq.top()) % MOD;
             pq.pop();
