@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RISHAV-077/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0805-split-array-with-same-average](https://github.com/RISHAV-077/DSA/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
+| [0835-image-overlap](https://github.com/RISHAV-077/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/RISHAV-077/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/RISHAV-077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/RISHAV-077/DSA/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/RISHAV-077/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RISHAV-077/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
