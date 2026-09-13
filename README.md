@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RISHAV-077/DSA/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/RISHAV-077/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/RISHAV-077/DSA/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RISHAV-077/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
