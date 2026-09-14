@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RISHAV-077/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/RISHAV-077/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/RISHAV-077/DSA/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RISHAV-077/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RISHAV-077/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/RISHAV-077/DSA/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RISHAV-077/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/RISHAV-077/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
