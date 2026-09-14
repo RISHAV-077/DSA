@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RISHAV-077/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RISHAV-077/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RISHAV-077/DSA/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/RISHAV-077/DSA/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RISHAV-077/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHAV-077/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
