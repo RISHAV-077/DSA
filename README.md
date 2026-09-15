@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RISHAV-077/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RISHAV-077/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/RISHAV-077/DSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RISHAV-077/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/RISHAV-077/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RISHAV-077/DSA/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RISHAV-077/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RISHAV-077/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RISHAV-077/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0981-time-based-key-value-store](https://github.com/RISHAV-077/DSA/tree/master/0981-time-based-key-value-store) |
