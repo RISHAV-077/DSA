@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/RISHAV-077/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RISHAV-077/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHAV-077/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RISHAV-077/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHAV-077/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RISHAV-077/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHAV-077/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/RISHAV-077/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2591-distribute-money-to-maximum-children](https://github.com/RISHAV-077/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/RISHAV-077/DSA/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/RISHAV-077/DSA/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHAV-077/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHAV-077/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHAV-077/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Meet in the Middle
 |  |
 | ------- |
