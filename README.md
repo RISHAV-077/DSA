@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RISHAV-077/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RISHAV-077/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RISHAV-077/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RISHAV-077/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RISHAV-077/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RISHAV-077/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/RISHAV-077/DSA/tree/master/2029-stone-game-ix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RISHAV-077/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RISHAV-077/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RISHAV-077/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RISHAV-077/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
