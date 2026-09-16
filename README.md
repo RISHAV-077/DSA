@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/RISHAV-077/DSA/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1690-stone-game-vii](https://github.com/RISHAV-077/DSA/tree/master/1690-stone-game-vii) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RISHAV-077/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/RISHAV-077/DSA/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/RISHAV-077/DSA/tree/master/1872-stone-game-viii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/RISHAV-077/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1095-find-in-mountain-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/RISHAV-077/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RISHAV-077/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RISHAV-077/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/RISHAV-077/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RISHAV-077/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
