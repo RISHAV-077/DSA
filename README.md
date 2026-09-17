@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RISHAV-077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RISHAV-077/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHAV-077/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/RISHAV-077/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RISHAV-077/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/RISHAV-077/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RISHAV-077/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/RISHAV-077/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/RISHAV-077/DSA/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
