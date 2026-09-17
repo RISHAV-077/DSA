@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RISHAV-077/DSA/tree/master/0238-product-of-array-except-self) |
 | [0354-russian-doll-envelopes](https://github.com/RISHAV-077/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RISHAV-077/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0417-pacific-atlantic-water-flow](https://github.com/RISHAV-077/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/RISHAV-077/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RISHAV-077/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RISHAV-077/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/RISHAV-077/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RISHAV-077/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/RISHAV-077/DSA/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/RISHAV-077/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
 | [1202-smallest-string-with-swaps](https://github.com/RISHAV-077/DSA/tree/master/1202-smallest-string-with-swaps) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/RISHAV-077/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/RISHAV-077/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/RISHAV-077/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RISHAV-077/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
