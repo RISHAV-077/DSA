@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RISHAV-077/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHAV-077/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/RISHAV-077/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RISHAV-077/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RISHAV-077/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHAV-077/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/RISHAV-077/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHAV-077/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RISHAV-077/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/RISHAV-077/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RISHAV-077/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RISHAV-077/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/RISHAV-077/DSA/tree/master/3870-count-commas-in-range) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHAV-077/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/RISHAV-077/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RISHAV-077/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/RISHAV-077/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
