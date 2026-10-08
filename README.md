@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/RISHAV-077/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/RISHAV-077/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/RISHAV-077/DSA/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RISHAV-077/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RISHAV-077/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/RISHAV-077/DSA/tree/master/0815-bus-routes) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RISHAV-077/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/RISHAV-077/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
